@@ -43,7 +43,7 @@ const Login = ({ onSwitch }) => {
         </form>
         <p>
           Don't have an account?{" "}
-      <a href="http://localhost:3000/register">   <span >Sign Up</span></a> 
+      <a href="#/register">   <span >Sign Up</span></a> 
         </p>
       </div>
     </div>
